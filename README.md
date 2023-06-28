@@ -6,7 +6,7 @@ An integration to monitor cpu, gpu and ram information using web tecnologies usi
 *Developed based on kraken z63 (320x320)*
 
 # Use in kraken web integration
-url: https://brunoandradebr.github.io/nzxt/
+url: https://razer2604.github.io/monitor/
 
 
 # How to run
